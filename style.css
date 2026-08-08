@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto';
-    font-size: 50px;
+    font-size: 60px;
     color: black;
     background-color: rgb(24, 23, 23);
     margin: 0;
@@ -26,11 +26,11 @@ body {
 
 .display {
     background-color: rgb(114, 106, 110);
-    border: 1px solid rgb(78, 54, 54);
+    border-bottom: 5px solid rgb(78, 54, 54);
     display: flex;
     align-items: flex-end;
     justify-content: end;
-    height: 146px;
+    height: 150px;
     padding: 10px 20px;
 }
 
@@ -41,6 +41,6 @@ body {
 
 button {
     font-family: 'Roboto';
-    font-size: 28px;
+    font-size: 40px;
     flex: 1;
 }
